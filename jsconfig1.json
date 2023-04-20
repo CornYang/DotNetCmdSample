@@ -1,0 +1,14 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "ignore": [
+    "456789"
+  ],
+  "test": "123"
+}
